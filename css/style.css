@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Signika:wght@300;400;700&display=swap');
+
+header h3 {
+color:#FFFFFF;
+font-family:"Signika"
+}
+
+#hero {
+	background-image: url("../img/Maquetación - Agencia de Viajes.png");
+	background-size: cover;
+	color:#FFFFFF;
+	text-align: center;
+	
+}
+
+#hero h1{
+	font-family:"Signika";
+	font-size: 60px;
+}
+
+#hero h4{
+	font-family:"Signika";
+	font-size: 25px;
+	margin-top: 40px;
+}
+
+.btn-reserva{
+	border-radius: 500px;
+	padding: 5px 33px;
+	background-color: #2A8C9F;
+	text-transform: uppercase;
+	font-size: 14px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	color: #FFFFFF;
+	margin-top: 100px;
+}
+
+.overlay{
+	background-color:rgba(0,0,0,0.65);
+	height: 100vh;
+}
+
+
+#precios{
+	padding: 4%;
+}
+
+
+
+#precios .card{
+
+	border-radius: 0;
+
+	border-color: #A2F3FF;
+
+	background-color: #4F4F4F;
+
+	margin-bottom: 2%;
+
+	color:  #fff;
+
+}
+
+#formulario{
+	background-image: url("../../../../Trabajo Grupal/imagen de fondo 1.jpg");
+	background-size: cover ;
+text-align: center
+}
+
+.formulariorow{
+	padding-top: 100px;
+	padding-right: 300px;
+}
+
+footer{
+	background-color: #4F4F4F;
+	color: #555252;
+	padding: 20px 0;
+}
+
+footer p{
+	margin-bottom: 5px;
+}
+
+footer span{
+	color:#4F4F4F;
+
+}
+
+.accion{
+	background-image: url("../img/fondo-accion.png");
+	background-size: cover;
+	height: 90vh;
+	text-align:center;
+	color: #FFFFFF;
+	
+}
+
+#info h1{
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 60px;
+	padding-top: 50px;
+	text-align: center;
+}
+
+#info img{
+	padding-top: 50px;
+}
+	
+.boton-personalizado {
+    background-color: #2A8C9F;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+	font-weight: bold;
+    cursor: pointer;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+	width: 250px;
+	border-radius: 30px;
+	margin: 30px auto; 
+}
